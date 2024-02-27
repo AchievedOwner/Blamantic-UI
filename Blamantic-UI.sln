@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blamantic-UI", "src\Blamantic-UI\Blamantic-UI.csproj", "{5F85E85C-1FD1-46A4-B594-424FE273B2B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blamantic-UI", "src\Blamantic-UI\Blamantic-UI.csproj", "{5F85E85C-1FD1-46A4-B594-424FE273B2B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blamantic-UI.Doc", "doc\Blamantic-UI.Doc\Blamantic-UI.Doc\Blamantic-UI.Doc.csproj", "{E6C983BC-1A8F-4F46-85A6-3625D6AB52D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blamantic-UI.Doc", "doc\Blamantic-UI.Doc\Blamantic-UI.Doc\Blamantic-UI.Doc.csproj", "{E6C983BC-1A8F-4F46-85A6-3625D6AB52D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blamantic-UI.Doc.Client", "doc\Blamantic-UI.Doc\Blamantic-UI.Doc.Client\Blamantic-UI.Doc.Client.csproj", "{DF28A22B-A3FC-40F5-9242-FA91D40CF378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blamantic-UI.Doc.Client", "doc\Blamantic-UI.Doc\Blamantic-UI.Doc.Client\Blamantic-UI.Doc.Client.csproj", "{DF28A22B-A3FC-40F5-9242-FA91D40CF378}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
