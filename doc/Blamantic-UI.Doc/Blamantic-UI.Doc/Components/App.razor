@@ -14,16 +14,9 @@
 </head>
 
 <body>
-    <Routes @rendermode="InteractiveWebAssembly" />
+    <Routes @rendermode="InteractiveAuto" />
     <script src="_framework/blazor.web.js"></script>
     <script src="_content/BlamanticUI/blamantic-ui.js" type="module"></script>
-    <script type="text/javascript">
-        document.addEventListener('DOMContentLoaded', (event) => {
-            document.querySelectorAll('pre code').forEach((el) => {
-                hljs.highlightElement(el);
-            });
-        });
-    </script>
 
 </body>
 
